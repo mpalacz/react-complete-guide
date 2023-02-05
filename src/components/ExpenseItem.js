@@ -1,5 +1,5 @@
 import ExpenseDate from './ExpenseDate'
-import './ExpensItem.css'
+import './ExpenseItem.css'
 
 export default function ExpenseItem(props) {
     return (
