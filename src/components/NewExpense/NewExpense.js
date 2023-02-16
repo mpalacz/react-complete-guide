@@ -1,5 +1,3 @@
-import './NewExpense.css'
-
 import ExpenseForm from './ExpenseForm';
 import './NewExpense.css';
 
